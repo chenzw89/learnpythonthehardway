@@ -1,2 +1,3 @@
 # learnpythonthehardway
-learn python the hard way exercises
+
+Learning progress in reading learnpythonthehardway.org.
